@@ -1,0 +1,8 @@
+{
+  "id": "id007",
+  "image": "bacisImage",
+  "billingAddress": "Address",
+  "companyName": "Sample Company",
+  "companyEmail": "sample@example.com",
+  "companyMobile": "8675309"
+}

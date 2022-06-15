@@ -1,0 +1,63 @@
+{
+  "idKey": {
+    "id": "ID",
+    "invoiceNo": "InvoiceNo",
+    "statusIndex": 001,
+    "statusName": "Paid",
+    "totalAmount": 0,
+    "color": "#dfdfdf",
+    "backgroundImage": {
+      "id": "string",
+      "base64": "string"
+    },
+    "dueDate": "10-20-2022",
+    "createdDate": "10-20-2022",
+    "companyDetail": {
+      "id": "007",
+      "image": "basicImage",
+      "billingAddress": "Address",
+      "companyName": "Sample Company",
+      "companyEmail": "sample@example.com",
+      "companyMobile": "8675309"
+    },
+    "clientDetail": {
+      "id": "",
+      "name": "",
+      "mobileNo": "",
+      "email": "",
+      "image": "",
+      "billingAddress": ""
+    },
+    "products": [
+      {
+        "id": "",
+        "name": "",
+        "image": "",
+        "amount": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "image": "",
+        "amount": ""
+      }
+    ],
+    "taxes": [
+      {
+        "id": "",
+        "title": "Tax %",
+        "type": "percentage",
+        "value": 10,
+        "amount": 1000
+      },
+      {
+        "id": "USD",
+        "title": "Tax(Fixed)",
+        "type": "fixed",
+        "value": 10,
+        "amount": 10
+      }
+    ],
+    "currencyUnit": "USD"
+  }
+}
