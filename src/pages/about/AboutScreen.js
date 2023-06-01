@@ -36,7 +36,7 @@ function AboutScreen() {
             <div>
               📫 Social Links{" "}
               <a
-                href="mailto:noxlumomagna@gmail.com"
+                href="mailto:1derick.nguyen@gmail.com"
                 className="underline cursor-pointer"
               >
                 noxlumomagna@gmail.com
