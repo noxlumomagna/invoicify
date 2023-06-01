@@ -39,7 +39,7 @@ function AboutScreen() {
                 href="mailto:1derick.nguyen@gmail.com"
                 className="underline cursor-pointer"
               >
-                noxlumomagna@gmail.com
+                1derick.nguyen@gmail.com
               </a>{" "}
               (or){" "}
               <a
