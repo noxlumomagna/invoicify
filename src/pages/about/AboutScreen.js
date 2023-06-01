@@ -54,7 +54,7 @@ function AboutScreen() {
             <div>
               <span>🎁 </span>
               <a
-                href="https://github.com/noxlumomagna"
+                href="https://github.com/noxlumomagna/invoicify"
                 className="underline cursor-pointer"
                 target={"_blank"}
                 rel="noreferrer"
