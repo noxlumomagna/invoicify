@@ -43,7 +43,7 @@ function AboutScreen() {
               </a>{" "}
               (or){" "}
               <a
-                href="https://www.linkedin.com/in/derick-nguyen-100devs/"
+                href="https://www.linkedin.com/in/1derick-nguyen/" 
                 target={"_blank"}
                 className="underline cursor-pointer"
                 rel="noreferrer"
